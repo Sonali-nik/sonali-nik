@@ -16,11 +16,11 @@ Hi, .......... :v:
 
 ### Greetings of the day!! I am glad you're reading this.:sparkles:
 
-- :bowtie: I am a coding enthusiast and I am getting my hands dirty in various tech fields like web development(frontend), UI/UX designing and C++.
-- :dart: I am learning Javascript currently and improving my C++ skills.
-- :+1: These days I am making sure to contribute to open source as much as I can because we owe a lot to it.
+- :bowtie: learning JAVA,DSA and PYTHON currently 
+- :dart: and improving my coding skills
+- :+1: These days I am making sure to contribute to open source as much as I can .
 
-I would like to learn and teach others as much as I can. If you feel that I can help you in any way possible you can mail me at [@srijan ](sonalisingh011195@gmail.com) <BR>
+I would like to learn and teach others as much as I can. If you feel that I can help you in any way possible you can mail me at [@sonali](sonalisingh011195@gmail.com) <BR>
 I will be very pleased to assist you with things.:information_desk_person:
 
 *Languages and Tools:*  
